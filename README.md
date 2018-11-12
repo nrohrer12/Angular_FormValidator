@@ -1,3 +1,6 @@
+# Setup 
+For proper use, deploy the project in the node_server file first to get a server running and then you can run the AngularForm app as the app uses the server to get and post http requests from.
+
 # AngularForm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
